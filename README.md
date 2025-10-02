@@ -1,4 +1,4 @@
-# amaralkaff Portfolio
+# Test Retro UI Portfolio
 
 Personal portfolio built with modern web technologies and retro aesthetics.
 
@@ -21,5 +21,3 @@ bun run dev
 Open [http://localhost:3000](http://localhost:3000)
 
 ---
-
-Built by amaralkaff
